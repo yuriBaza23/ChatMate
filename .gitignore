@@ -1,0 +1,4 @@
+# backend directories ---------
+/backend/node_modules/
+# locks
+/backend/yarn.lock
